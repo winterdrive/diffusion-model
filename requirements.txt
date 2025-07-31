@@ -1,0 +1,44 @@
+# Core deep learning framework
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Data handling and scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+pillow>=8.3.0
+
+# Training utilities
+tqdm>=4.62.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Logging and experiment tracking (optional)
+wandb>=0.12.0
+tensorboard>=2.8.0
+
+# Configuration and utilities
+pyyaml>=6.0
+omegaconf>=2.1.0
+hydra-core>=1.1.0
+
+# Image processing and computer vision
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+
+# Evaluation metrics
+scikit-learn>=1.0.0
+
+# Development and testing
+pytest>=6.2.0
+pytest-cov>=3.0.0
+black>=22.0.0
+flake8>=4.0.0
+
+# Jupyter notebook support (optional)
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+
+# Additional utilities
+click>=8.0.0
+rich>=12.0.0
